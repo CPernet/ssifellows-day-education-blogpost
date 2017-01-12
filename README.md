@@ -20,7 +20,7 @@ Domain specific only comes at master level and is taught in specific schools and
 |              | editors          |  exercice based programming thinking |                             |
 |              |                  |  collaborative/social 'coding'       |                             |
 |||    `To run accross departments / schools`                                                          |          
-| Master / Phd |                  |    more doc + unit-testing           |   specific applications     |
+| Master / Phd | python, R, matlab |    more doc + unit-testing           |   specific applications     |
 |||                     `To run within departments / schools`                                          |         
 | Phd  ++      |                  |                                      |  applications / libraries   |
 |||                    `To run as workshop around conference / hackaton style`                         |        

@@ -11,17 +11,15 @@ _What_: We discussed who we should teach, what and when
 
 ## Curiculum exemple
 
-|              | Tools            |  Good Practices                      |  Domain Speciofic           |
+|              | *Tools*          | *Good Practices*                     | *Domain Speciofic*          |
 |:------------:|:----------------:|:------------------------------------:|:---------------------------:|
 | undergrads   | version control  |  documentation                       |                             |
 |              | editors          |  exercice based programming thinking |                             |
 |              |                  |  collaborative/social 'coding'       |                             |
-|              |         To run accross departments / schools            |                             |          
-|              |------------------|--------------------------------------|-----------------------------|
+|||     To run accross departments / schools                                                           |          
 | Master / Phd |                  |    more doc + uini-testing           |   specific applications     |
-|              |         To run within departments / schools             |                             |         
-|              |------------------|--------------------------------------|-----------------------------|
+|||                      To run within departments / schools                                           |         
 | Phd  ++      |                  |                                      |  applications / libraries   |
-|              |         To run as workshop around conference / hackaton style                         |        
-|--------------|------------------|--------------------------------------|-----------------------------|
+|||                     To run as workshop around conference / hackaton style                          |        
+
 

@@ -6,6 +6,13 @@ _When_: During the SSI fellowship selection day, we had group dicussions. One of
 _Who_: The group was composed of Dr Laurence Billingham, Dr Elena Vataga, Dr Krishna Kumar Soundararajan, Dr Cyril Pernet.
 _What_: We discussed who we should teach, what and when
 
+## Why 
+There are two broad reasons to teach programming practice to the widest possible community.
+Firstly, we now live in a digital society and knowing how computers and the web work is now considered a form of [literacy](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy).
+
+Secondly learning how to think like a software developer gives people powerful new ways of thinking. Learning to code can change the way people think about the world and their place in it. Any programming language is a set of rules, but, through the act of learning the rules of the system and mastering the language, programmers learn that people have the ability to change the rules of the system. For more on deconstructing and improving broken systems we recommed you check out [Jessica McKellar's PyBay2016 Keynote](https://www.youtube.com/watch?v=9UnMZYMaosw).
+
+
 ## General idea
 
 Our thoughts are that we need to teach from undergrad level, not dedicated sooftware applications but programming thinking, documentation of what you do / the code does along with version control and at the same time, favour social aspects. Such course can be run across shools, to promote the idea that this is a transferable skill that is useful, beyond coding. Hopefully, in 20 years from now, programming thinking won't be necessary as kids should be taught this.

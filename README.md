@@ -15,7 +15,7 @@ Secondly learning how to think like a software developer gives people powerful n
 
 ## General idea
 
-Our thoughts are that we need to teach from undergrad level, not dedicated sooftware applications but programming thinking, documentation of what you do / the code does along with version control and at the same time, favour social aspects. Such course can be run across shools, to promote the idea that this is a transferable skill that is useful, beyond coding. Hopefully, in 20 years from now, programming thinking won't be necessary as kids should be taught this.
+Our thoughts are that we need to teach from undergrad level, not dedicated software applications but programming thinking, documentation of what you do / the code does along with version control and at the same time, favour social aspects. This is the kind of skills used in programming but that transfert easily across disciplines. Such course can be run across shools, to promote the idea that this is a transferable skill that is useful, beyond coding. Hopefully, in 20 years from now, programming thinking won't be necessary as kids should be taught this.
 
 Domain specific only comes at master level and is taught in specific schools and departments. Along applications, more good practices like unit testing should be taught as well. 
 

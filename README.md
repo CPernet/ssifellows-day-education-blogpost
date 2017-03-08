@@ -1,21 +1,22 @@
 # Teaching programming at universities
-> SSI fellows' education blog
+
+By [Cyril Pernet](https://www.software.ac.uk/fellows/cyril-pernet), [University of Edinburgh](http://www.ed.ac.uk/), [Krishna Kumar](https://www.software.ac.uk/fellows/krishna-kumar), [University of Cambridge](http://www.cam.ac.uk/), [Laurence Billingham](https://www.software.ac.uk/fellows/laurence-billingham), [British Geological Survey](http://www.bgs.ac.uk/).
 
 ## Context
 
-_When_: The SSI fellowship selection day (November 2, 2016) involved several sessions including group dicussions. The group discussion was about education and software.
+_When_: The [Software Sustainability Institute](https://www.software.ac.uk/) [Fellowship face-to-face selection day](https://www.software.ac.uk/blog/2016-11-29-fellows-2017-face-face-selection-day) (November 2, 2016) involved several sessions including group dicussions. The group discussion was about education and software.
 
-_Who_: The group was composed of Dr Laurence Billingham, Dr Elena Vataga, Dr Krishna Kumar, Dr Cyril Pernet.
+_Who_: The group was composed of Dr Laurence Billingham, [Dr Elena Vataga](http://cmg.soton.ac.uk/people/ev1r09/), Dr Krishna Kumar, Dr Cyril Pernet.
 
 _What_: The discussion was about teaching programming and best practices at universities: whom we should teach, what should be taught and when.
 
 ## Why
+
 There are two primary reasons to teach programming and best practice to the widest possible community.
 
 Firstly, we now live in a digital society and knowing how computers and the web work is now considered a form of [literacy](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy).
 
 Secondly learning how to think like a software developer gives people powerful new ways of explore ideas. Learning to code can change the way people think about the world and their place in it. Any programming language is a set of rules, but, through the act of learning the rules of the system and mastering the language, programmers acquire the ability to understand and modify the system. For more on deconstructing and improving broken systems we recommed you check out [Jessica McKellar's PyBay2016 Keynote](https://www.youtube.com/watch?v=9UnMZYMaosw).
-
 
 ## General idea
 

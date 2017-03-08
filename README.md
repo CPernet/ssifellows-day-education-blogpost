@@ -26,16 +26,67 @@ We agreed that domain specific programming and specific software applications sh
 
 ## Curriculum example
 
-|  *Level*       | *Tools*          | *Good Practices*                     | *Domain Specific*           |
-|:--------------:|:----------------:|:------------------------------------:|:---------------------------:|
-| Undergraduates | Version control  |  exercice based programming thinking |                             |
-|                | editors          |   Code documentation and manuals     |                             |
-|                |                  |  collaborative/social 'coding'       |                             |
-|                |                  |    `To run accross departments / schools` 			 |
-| Masters / PhD  | python, R, matlab |    more doc + unit-testing          |   specific applications     |
-|		 |		    |`To run within departments / schools`                               |
-| PhD++          |                  |                                      |  applications / libraries   |
-|                |                  |`To run as a workshop around conference / hackaton style` 		 |
+<table>
+<tbody>
+<tr>
+<th>Study Level</th>
+<th>Tools</th>
+<th>Good Practices</th>
+<th>Domain Specific</th>
+<th>Offers</th>
+</tr>
+<tr>
+<td>Undergraduates</th>
+<td>
+<ul>
+<li>Version control system</li>
+<li>Text editors and IDE</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>exercice based programming thinking</li>
+<li>code documentation and manuals</li>
+<li>collaborative/social 'coding'</li>
+</ul>
+</td>
+<td>No</td>
+<td>To run accross departments / schools</td>
+</tr>
+<tr>
+<td>Masters and PhD</td>
+<td>
+<ul>
+<li>Programming languages (e.g. Python, R, MATLAB)</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>"Advanced" code documentation and manuals</li>
+<li>Test (e.g. unit-testing)</li>
+</ul>
+</td>
+<td>Yes, at subject group level</td>
+<td>To run within departments / schools</td>
+</tr>
+<tr>
+<td>Postdoctoral Researcher</td>
+<td>
+<ul>
+<li>Libraries</li>
+<li>Specific Domain Languages</li>
+</ul>
+</td>
+<td>
+<ul>
+<li>Semantic version</li>
+</ul>
+</td>
+<td>Yes, at subject subgroups level</td>
+<td>To run as a workshop around conference / hackaton style</td>
+</tr>
+</tbody>
+</table>
 
 ## Challenges
 

@@ -12,7 +12,7 @@ _What_: The discussion was about teaching programming and best practices at univ
 ## Why
 There are two primary reasons to teach programming and best practice to the widest possible community.
 
-Firstly, we now live in a digital society and knowing how computers and the web work is now considered a form of [literacy](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy).
+Firstly, we now live in a digital society and knowing how computers and the web work is now considered a form of [literacy](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy) just like English and mathematics. Be [digital literated](https://en.wikipedia.org/wiki/Digital_literacy) is important because ...
 
 Secondly learning how to think like a software developer gives people powerful new ways of explore ideas. Learning to code can change the way people think about the world and their place in it. Any programming language is a set of rules, but, through the act of learning the rules of the system and mastering the language, programmers acquire the ability to understand and modify the system. For more on deconstructing and improving broken systems we recommed you check out [Jessica McKellar's PyBay2016 Keynote](https://www.youtube.com/watch?v=9UnMZYMaosw).
 

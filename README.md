@@ -45,13 +45,13 @@ We agreed that domain specific programming and specific software applications sh
 </td>
 <td>
 <ul>
-<li>exercice based programming thinking</li>
+<li>exercise based programming thinking</li>
 <li>code documentation and manuals</li>
 <li>collaborative/social 'coding'</li>
 </ul>
 </td>
 <td>No</td>
-<td>To run accross departments / schools</td>
+<td>To run across departments / schools</td>
 </tr>
 <tr>
 <td>Masters and PhD</td>

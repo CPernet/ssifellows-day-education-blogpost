@@ -19,11 +19,11 @@ Secondly learning how to think like a software developer gives people powerful n
 
 ## General idea
 
-We unanimously agreed that programming and best practices has to be taught at every level in universities, catering to different needs of the people, and has to start at the undergraduate level. At the undergraduate level, we recommend teaching algorithmic/programming thinking, and not dedicated software applications, emphasising the idea of learning to think and not learning to code.  More emphasis should be on best practices such as writing good code documentation and manuals, version control systems and at the same time, favour social aspects such as pair programming and code review. These are the kind of skills which are essential as a programmer, but can be transferred easily across disciplines. Such courses can be run across schools, to promote the idea that this is a transferable skill that is useful, beyond coding. Hopefully, in 20 years from now, teaching programming thinking won't be necessary at universities, as the UK has made it a part of their [official curriculum](http://www.computingatschool.org.uk/) for all grade school kids. 
+We unanimously agreed that programming and best practices has to be taught at every level in universities, catering to different needs of the people, and has to start at the undergraduate level. At the undergraduate level, we recommend teaching algorithmic/programming thinking, and not dedicated software applications, emphasising the idea of learning to think and not learning to code.  More emphasis should be on best practices such as writing good code documentation and manuals, version control systems and at the same time, favour social aspects such as pair programming and code review. These are the kind of skills which are essential as a programmer, but can be transferred easily across disciplines. Such courses can be run across schools, to promote the idea that this is a transferable skill that is useful, beyond coding.
 
 We agreed that domain specific programming and specific software applications should be taught at masters level in respective schools and departments. More good practices like unit testing should be included in the curriculum.
 
-## Curiculum example
+## Curriculum example
 
 |  *Level*       | *Tools*          | *Good Practices*                     | *Domain Specific*           |
 |:--------------:|:----------------:|:------------------------------------:|:---------------------------:|
@@ -35,3 +35,11 @@ We agreed that domain specific programming and specific software applications sh
 |		 |		    |`To run within departments / schools`                               |
 | PhD++          |                  |                                      |  applications / libraries   |
 |                |                  |`To run as a workshop around conference / hackaton style` 		 |
+
+## Challenges
+
+The challenges to implement our curriculum example are ...
+
+## Conclusions
+
+Hopefully, in 20 years from now, teaching programming thinking won't be necessary at universities, as the UK has made it a part of their [official curriculum](http://www.computingatschool.org.uk/) for all grade school kids. 
